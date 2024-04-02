@@ -46,7 +46,7 @@
 		/*	Mobile Menu Toggle
 		/*----------------------------------------------------*/
 		
-		$('.navbar-nav li.nav-item').on('click', function() {				
+		$('.navbar-nav li.nav-item,.dropdown-menu li.dropdown-item,.teste-gratis').on('click', function() {				
 			$('#navbarSupportedContent').css("height", "1px").removeClass("in").addClass("collapse");
 			$('#navbarSupportedContent').removeClass("show");				
 		});
@@ -57,10 +57,8 @@
 		/*----------------------------------------------------*/
 		
 		$('.animated').appear(function() {
-
 	        var elem = $(this);
 	        var animation = elem.data('animation');
-
 	        if ( !elem.hasClass('visible') ) {
 	        	var animationDelay = elem.data('animation-delay');
 	            if ( animationDelay ) {

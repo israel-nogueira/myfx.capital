@@ -23,39 +23,39 @@
 		<title>AppSet - App Landing Pages Pack</title>
 							
 		<!-- FAVICON AND TOUCH ICONS  -->
-		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
-		<link rel="apple-touch-icon" sizes="152x152" href="images/apple-touch-icon-152x152.png">
-		<link rel="apple-touch-icon" sizes="120x120" href="images/apple-touch-icon-120x120.png">
-		<link rel="apple-touch-icon" sizes="76x76" href="images/apple-touch-icon-76x76.png">
-		<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+		<link rel="shortcut icon" href="/files/images/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/files/images/favicon.ico" type="image/x-icon">
+		<link rel="apple-touch-icon" sizes="152x152" href="/files/images/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/files/images/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/files/images/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" href="/files/images/apple-touch-icon.png">
 
 		<!-- GOOGLE FONTS -->
 		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet"> 	
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900" rel="stylesheet">
 
 		<!-- BOOTSTRAP CSS -->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="/files/css/bootstrap.min.css" rel="stylesheet">
 				
 		<!-- FONT ICONS -->
-		<link href="css/fa-svg-with-js.css" rel="stylesheet">
-		<link href="css/tonicons.css" rel="stylesheet">
+		<link href="/files/css/fa-svg-with-js.css" rel="stylesheet">
+		<link href="/files/css/tonicons.css" rel="stylesheet">
 
 		<!-- PLUGINS STYLESHEET -->
-		<link href="css/magnific-popup.css" rel="stylesheet">
-		<link href="css/flexslider.css" rel="stylesheet">
-		<link href="css/animate.css" rel="stylesheet">
-		<link href="css/owl.carousel.min.css" rel="stylesheet">
-		<link href="css/owl.theme.default.min.css" rel="stylesheet">
-		<link href="css/slick.css" rel="stylesheet">
-		<link href="css/slick-theme.css" rel="stylesheet">
+		<link href="/files/css/magnific-popup.css" rel="stylesheet">
+		<link href="/files/css/flexslider.css" rel="stylesheet">
+		<link href="/files/css/animate.css" rel="stylesheet">
+		<link href="/files/css/owl.carousel.min.css" rel="stylesheet">
+		<link href="/files/css/owl.theme.default.min.css" rel="stylesheet">
+		<link href="/files/css/slick.css" rel="stylesheet">
+		<link href="/files/css/slick-theme.css" rel="stylesheet">
 				
 		<!-- TEMPLATE CSS -->
-		<link href="css/spinner.css" rel="stylesheet">
-		<link href="css/style.css" rel="stylesheet"> 	
+		<link href="/files/css/spinner.css" rel="stylesheet">
+		<link href="/files/css/style.css" rel="stylesheet"> 	
 
 		<!-- RESPONSIVE CSS -->
-		<link href="css/responsive.css" rel="stylesheet"> 
+		<link href="/files/css/responsive.css" rel="stylesheet"> 
 
 		
 
@@ -100,8 +100,8 @@
 
 						<!-- LOGO IMAGE -->
 						<!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 250 x 60 pixels) -->
-				 		<a href="demo-1.html#hero-1" class="navbar-brand logo-black"><img src="images/logo-black.png" width="125" height="30" alt="header-logo"></a>
-				 		<a href="demo-1.html#hero-1" class="navbar-brand logo-white"><img src="images/logo-white.png" width="125" height="30" alt="header-logo"></a>
+				 		<a href="#hero-1" class="navbar-brand logo-black"><img style="margin: -10px -19px; width: 210px;" src="/files/images/logo_escura.svg" height="100" alt="header-logo"></a>
+				 		<a href="#hero-1" class="navbar-brand logo-white"><img style="margin: -10px -19px; width: 210px;" src="/files/images/logo_clara.svg" height="100" alt="header-logo"></a>
 
 
 				 		<!-- Responsive Menu Button -->
@@ -114,45 +114,27 @@
 				  		<div id="navbarSupportedContent" class="collapse navbar-collapse">				  			
 					   		<ul class="navbar-nav ml-auto">
 
-					     		<li class="nav-item nl-simple"><a class="nav-link" href="demo-1.html#features-4">About</a></li>
-
-					     		<!-- Dropdown Link -->
-                      			<li class="nav-item dropdown">
-		                            <a class="nav-link dropdown-toggle" href="demo-1.html#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-		                                What We Do
-		                            </a>
-
-		                            <!-- Dropdown Menu -->
-                           			<ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                           				<li><a class="dropdown-item" href="demo-1.html#content-1">Why AppSet</a></li>
-		                                <li><a class="dropdown-item" href="demo-1.html#video-2">How It Works</a></li>
-		                                <li><a class="dropdown-item" href="demo-1.html#reviews-3">Testimonials</a></li>
-                            		</ul>
-                        		</li>
-
-					     		<li class="nav-item nl-simple"><a class="nav-link" href="demo-1.html#content-4">Features</a></li>
-							    <li class="nav-item nl-simple"><a class="nav-link" href="demo-1.html#faqs-1">FAQs</a></li>
-
-							    <!-- AppStore Badge 
-								<li class="nav-item">
-									<a href="#" class="header-store">
-										<img class="appstore-button" src="images/store_badges/header-appstore.png" width="141" height="44" alt="appstore-logo">
+					     		<li class="nav-item nl-simple"><a class="nav-link" href="#features-4">Sistema</a></li>
+					     		<li class="nav-item nl-simple"><a class="nav-link" href="#content-4">Recursos</a></li>
+							    <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-1">Perguntas</a></li> 
+								<li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+										<img src="/files/images/bandeiras/pt.png" style="width:40px;">
 									</a>
-								</li>  -->
-															
-								<!-- Google Play Badge 
-								<li class="nav-item">
-									<a href="#" class="header-store">
-										<img class="googleplay-button" src="images/store_badges/header-googleplay.png" width="151" height="44" alt="googleplay-logo">
-									</a>
-								</li>  -->
+									<ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="min-width: 80px;">
+										<li><a class="dropdown-item" href="#pt"><img src="/files/images/bandeiras/pt.png" style="width:40px;"></a></li>
+										<li><a class="dropdown-item" href="#es"><img src="/files/images/bandeiras/es.png" style="width:40px;"></a></li>
+										<li><a class="dropdown-item" href="#en"><img src="/files/images/bandeiras/en.png" style="width:40px;"></a></li>
+									</ul> 
+								</li>
+
 
 					      	</ul>
 
 					      	<!-- Header Button -->	
 					      	<span class="navbar-text white-color">						      															
-								<a href="demo-1.html#contacts-2" class="btn btn-green btn-arrow">
-									<span>Try For Free <i class="fas fa-angle-double-right"></i></span>
+								<a href="#contacts-2" class="teste-gratis btn btn-green btn-arrow">
+									<span>Teste grátis <i class="fas fa-angle-double-right"></i></span>
 								</a>
 						    </span>	
 
@@ -178,46 +160,43 @@
 							<div class="hero-txt mb-40">
 
 								<!-- Title -->	
-								<h2 class="wow fadeInUp" data-wow-delay="0.3s">
-								   AppSet
-								</h2>
+								<h2 class="wow fadeInUp" data-wow-delay="0.3s">Sinais de Elite</h2>
 
 					 			<!-- Small Title -->	
-								<h3 class="h3-sm wow fadeInUp" data-wow-delay="0.4s">
-								   Powerful App for creative people & designers
-								</h3>	
+								<h3 class="h3-sm wow fadeInUp" data-wow-delay="0.4s">Descubra uma Nova Dimensão de Lucratividade no Mercado Forex</h3>	
 
 								<!-- Text -->
 								<p class="p-md wow fadeInUp" data-wow-delay="0.5s">
-								   Feugiat primis ligula risus auctor laoreet augue egestas mauris viverra tortor in iaculis pretium
-								   magna, mauris rhoncus ipsum in placerat feugiat primis ultrice	
+									Explore uma seleção imbatível dos sinais mais precisos e rentáveis do mundo do Forex, todos reunidos em uma plataforma
+									conveniente. Aproveite a facilidade de acompanhar e executar esses sinais de elite, elevando sua experiência de
+									negociação a novos patamares de sucesso financeiro.	
 								</p>
 
 								<!-- STORE BADGES -->												
 								<div class="stores-badge wow fadeInUp" data-wow-delay="0.8s">
 
-									<!-- AppStore -->
-									<a href="demo-1.html#" class="store">
-										<img class="appstore-original" src="images/store_badges/appstore.png" width="160" height="50" alt="appstore-logo" />
+									<!-- AppStore -- 
+									<a href="#" class="store">
+										<img class="appstore-original" src="/files/images/store_badges/appstore.png" width="160" height="50" alt="appstore-logo" />
 									</a>
 													
-									<!-- Google Play -->
-									<a href="demo-1.html#" class="store">
-										<img class="googleplay-original" src="images/store_badges/googleplay.png" width="171" height="50" alt="googleplay-logo" />
+									<!-- Google Play 
+									<a href="#" class="store">
+										<img class="googleplay-original" src="/files/images/store_badges/googleplay.png" width="171" height="50" alt="googleplay-logo" />
 									</a>
-												
+									-->
 									<!-- Aamazon Market 
 									<a href="#" class="store">
-										<img class="amazon-original" src="images/store_badges/amazon.png" width="158" height="50" alt="amazon-logo" />
+										<img class="amazon-original" src="/files/images/store_badges/amazon.png" width="158" height="50" alt="amazon-logo" />
 									</a>  -->
 																					
-									<!-- Windows Market  
-									<a href="#" class="store">
-										<img class="windows-original" src="images/store_badges/windows.png" width="164" height="50" alt="windows-logo" />
-									</a> -->
+									<!-- Windows Market   -->
+									<a href="#contacts-2" class="btn btn-green btn-arrow">
+										Teste grátis por 7 dias
+									</a>
 
 									<!-- OS Prerequisite -->
-									<span class="os-version">* Requires iOS 7.0 or higher</span>
+									<span class="os-version">( Não é necessário cartão de crédito )</span>
 													
 								</div>	<!-- END STORE BADGES -->	
 
@@ -228,7 +207,7 @@
 						<!-- HERO IMAGE -->	
 						<div class="col-md-5 col-lg-6">
 							<div class="hero-1-img wow fadeInRight" data-wow-delay="0.5s">
-								<img class="img-fluid" src="images/hero-1-img.png" alt="hero-image">
+								<img class="img-fluid" src="/files/images/hero-1-img.png" alt="hero-image">
 							</div>	
 						</div>
 
@@ -250,7 +229,7 @@
 			 			<!-- FEATURE IMAGE -->
 						<div class="col-md-5 col-lg-5">	
 							<div class="features-img wow fadeInRight" data-wow-delay="0.5s">				
-								<img class="img-fluid" src="images/image-09.png" alt="features-image">
+								<img class="img-fluid" src="/files/images/image-09.png" alt="features-image">
 							</div>
 						</div>	
 
@@ -264,16 +243,14 @@
 									<div class="fbox-4 box-icon-sm wow fadeInUp" data-wow-delay="0.3s">		
 										
 										<!-- Icon -->
-										<span class="grey-color ti-Line-Stopwatch"></span>
+										<!-- <span class="grey-color ti-Line-Stopwatch"></span> -->
 											
 										<!-- Title -->
-										<h5 class="h5-sm">Quick Access</h5>
+										<h5 class="h5-sm">Fácil instalação</h5>
 											
 										<!-- Text -->
-										<p class="grey-color">Semper lacus cursus porta, feugiat primis ultrice in ligula risus auctor
-										   tempus feugiat dolor felis
-										</p>				
-											
+										<p class="grey-color">A instalação simplificada garante que você possa configurar rapidamente sua plataforma sem complicações.</p>				
+
 									</div>							
 								</div>
 										
@@ -281,18 +258,9 @@
 								<!-- FEATURE BOX #2 -->
 								<div class="col-md-6">
 									<div class="fbox-4 box-icon-sm wow fadeInUp" data-wow-delay="0.5s">		
-										
-										<!-- Icon -->
-										<span class="grey-color ti-Line-Email-3"></span>
-											
-										<!-- Title -->
-										<h5 class="h5-sm">Mailer Engine</h5>
-
-										<!-- Text -->
-										<p class="grey-color">Feugiat primis ultrice semper lacus cursus porta, in ligula risus auctor
-										   tempus feugiat dolor felis
-										</p>								
-									
+										<!-- <span class="grey-color ti-Line-Email-3"></span> -->
+										<h5 class="h5-sm">Privacidade</h5>
+										<p class="grey-color">Priorizamos a segurança e a privacidade dos seus dados, garantindo que suas informações permaneçam confidenciais e protegidas</p>								
 									</div>							
 								</div>
 
@@ -300,18 +268,9 @@
 								<!-- FEATURE BOX #3 -->
 								<div class="col-md-6">
 									<div class="fbox-4 box-icon-sm wow fadeInUp" data-wow-delay="0.7s">		
-										
-										<!-- Icon -->
-										<span class="grey-color ti-Line-Key-2"></span>
-											
-										<!-- Title -->
-										<h5 class="h5-sm">Concrete Security</h5>
-
-										<!-- Text -->
-										<p class="grey-color">Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-										   tempus feugiat dolor felis
-										</p>
-
+										<!-- <span class="grey-color ti-Line-Key-2"></span> -->
+										<h5 class="h5-sm">Painel interativo</h5>
+										<p class="grey-color">Explore um painel de controle dinâmico e interativo que oferece uma experiência de usuário fluida e envolvente</p>
 									</div>							
 								</div>	
 
@@ -319,17 +278,9 @@
 								<!-- FEATURE BOX #4 -->
 								<div class="col-md-6">
 									<div class="fbox-4 box-icon-sm wow fadeInUp" data-wow-delay="0.9s">		
-										
-										<!-- Icon -->
-										<span class="grey-color ti-Line-Refresh-2"></span>
-											
-										<!-- Title -->
-										<h5 class="h5-sm">Free Updates</h5>
-
-										<!-- Text -->
-										<p class="grey-color">Porta semper lacus cursus, feugiat primis ultrice in ligula risus auctor
-										   tempus feugiat dolor felis
-										</p>
+										<!-- <span class="grey-color ti-Line-Refresh-2"></span> -->
+										<h5 class="h5-sm">Atualizações Gratuitas</h5>
+										<p class="grey-color">Nossas atualizações gratuitas garantem que você sempre tenha acesso às últimas melhorias e correções de bugs, mantendo seu sistema seguro e eficiente</p>
 
 									</div>							
 								</div>
@@ -367,31 +318,24 @@
 
 					 			<!-- Title -->	
 								<h3 class="h3-xl wow fadeInUp" data-wow-delay="0.3s">
-								   We bring the best design for you 
+								   Push Notifications 
 								</h3>
 
 								<!-- Text -->
 								<p class="wow fadeInUp" data-wow-delay="0.5s">
-								   An enim nullam tempor sapien gravida donec enim ipsum pretium porta justo integer at odio velna vitae
-								   auctor integer congue magna at  purus pretium ligula rutrum luctus risus ultrice enim gravida
+								   Obtenha o máximo de cada negociação no mercado Forex com nossos sinais premium! Com a facilidade das notificações instantâneas no Telegram, você estará sempre um passo à frente, acompanhando cada execução com entusiasmo.
 								</p> 
 
 								<!-- Title -->	
 								<h5 class="h5-sm wow fadeInUp" data-wow-delay="0.7s">
-								   Feature Integration
+								   Não perca mais oportunidades
 								</h5>
 		
 								<!-- Text -->	
 								<p class="wow fadeInUp" data-wow-delay="0.9s">
-									An nullam tempor sapien, eget gravida donec enim ipsum porta justo integer at odio velna vitae
-								   auctor integer congue. Justo at odio integer velna vitae auctor integer congue magna impedit
+									junte-se a nós agora e descubra um novo mundo de lucratividade e conveniência!
 								</p>
 
-								<!-- Text -->
-								<p class="wow fadeInUp" data-wow-delay="1s">
-									Semper lacus cursus porta primis ligula risus tempus auctor ipsum and mauris lectus purus tempor
-								   ipsum cursus
-								</p>
 
 					 		</div>
 					 	</div>	<!-- END CONTENT TEXT -->
@@ -400,7 +344,7 @@
 					 	<!-- CONTENT IMAGE -->
 						<div class="col-md-6 col-lg-5 offset-lg-1">
 							<div class="content-img wow fadeInLeft" data-wow-delay="0.5s">
-								<img class="img-fluid" src="images/image-06.png" alt="content-image" />
+								<img class="img-fluid" src="/files/images/push-noty.png" alt="content-image" />
 					 		</div>
 						</div>
 
@@ -448,42 +392,28 @@
 							<div class="statistic-block box-icon wow fadeInUp" data-wow-delay="0.5s">
 
 								<!-- Icon -->
-								<span class="green-color ti-Line-Paper-plane"></span>
-
+								<img src="/files/images/profit.png" alt="">
 								<!-- Data -->
 								<p class="statistic-number txt-700">1,<span class="count-element">263</span></p>
-								<p class="txt-500">Tickets Closed</p>	
+								<p class="txt-500">Take Profits</p>	
 
 							</div>							
 						</div>
 
-
-						<!-- STATISTIC BLOCK #3 -->
 						<div class="col-sm-6 col-md-3">						
 							<div class="statistic-block box-icon wow fadeInUp" data-wow-delay="0.7s">
-
-								<!-- Icon -->
-								<span class="green-color ti-Line-People-1"></span>
-
-								<!-- Data -->
+								<img src="/files/images/loss.png" alt="">
 								<p class="statistic-number txt-700">5,<span class="count-element">172</span></p>
-								<p class="txt-500">Followers</p>
-
+								<p class="txt-500">Stop Loss</p>
 							</div>						
 						</div>
 						
-
-						<!-- STATISTIC BLOCK #4 -->
 						<div class="col-sm-6 col-md-3">							
 							<div class="statistic-block box-icon wow fadeInUp" data-wow-delay="0.9s">
 
-								<!-- Icon -->
-								<span class="green-color ti-Line-Coffee-mug"></span>
-
-								<!-- Data -->
+								<img src="/files/images/open-positions.png" alt="">
 								<p class="statistic-number txt-700">4,<span class="count-element">874</span></p>
-								<p class="txt-500">Cups of Coffee</p>
-
+								<p class="txt-500">Posições Abertas</p>
 							</div>						
 						</div>
 
@@ -497,7 +427,7 @@
 
 			<!-- VIDEO-2
 			============================================= -->
-			<section id="video-2" class="pb-100 video-section division">
+			<section id="video-2" class="pb-100 video-section division d-none">
 				<div class="bg-scroll pt-100 bg-inner bg-lightgrey division">	
 					<div class="container">
 
@@ -534,7 +464,7 @@
 										</div>
 												
 										<!-- Preview Image -->
-										<img class="img-fluid" src="images/video-2.png" alt="video-preview" />
+										<img class="img-fluid" src="/files/images/video-2.png" alt="video-preview" />
 
 									</a>
 
@@ -563,24 +493,21 @@
 							
 					 			<!-- Title -->	
 								<h3 class="h3-xl wow fadeInUp" data-wow-delay="0.3s">
-								   Organize all your media content with AppSet easily</h3>	
+								   Controle total em nosso painel!</h3>	
 
 								<!-- Text -->
-								<p class="p-md grey-color wow fadeInUp" data-wow-delay="0.5s">
-									Semper lacus cursus porta, feugiat primis in ultrice ligula tempus auctor
-								   ipsum and mauris lectus enim ipsum									   
+								<p class="grey-color wow fadeInUp" data-wow-delay="0.5s">
+									Prepare-se para uma experiência de negociação como nunca viu antes! Com nosso painel de controle intuitivo e repleto de recursos, você terá o poder de acompanhar seus sinais ativos, verificar aqueles finalizados e até mesmo monitorar seus lucros e prejuízos em tempo real.					   
 								</p>
 
 								<!-- Text -->	
-								<p class="wow fadeInUp" data-wow-delay="0.7s">
-								   An nullam tempor sapien, eget gravida donec enim ipsum porta justo integer at odio velna vitae
-								   auctor integer congue. Justo at odio integer velna vitae auctor integer congue magna impedit
+								<p class="wow grey-color fadeInUp" data-wow-delay="0.7s">
+								   Imagine a emoção de ver seus investimentos se desenrolarem diante de seus olhos, com gráficos interativos e atualizações instantâneas. 
 								</p>
 
 								<!-- Text -->
-								<p class="wow fadeInUp" data-wow-delay="0.9s">
-								   Semper lacus cursus porta primis ligula risus tempus sagittis ipsum and mauris lectus purus tempor
-								   ipsum at enim ipsum porta
+								<p class="wow grey-color fadeInUp" data-wow-delay="0.9s">
+								   Esteja no comando total de sua jornada financeira - junte-se a nós agora e comece a maximizar seus ganhos com confiança e entusiasmo!	
 								</p>
 
 								<!-- APP DEVICES -->	
@@ -604,7 +531,7 @@
 						<!-- CONTENT IMAGE -->	
 						<div class="col-md-5 col-lg-5 offset-lg-1">
 							<div class="content-7-img wow fadeInRight" data-wow-delay="0.5s">
-								<img class="img-fluid" src="images/image-07.png" alt="content-image">
+								<img class="img-fluid" src="/files/images/image-07.png" alt="content-image">
 							</div>	
 						</div>	<!-- END CONTENT IMG -->	
 
@@ -627,54 +554,29 @@
 
 			<!-- TESTIMONIALS-3
 			============================================= -->
-			<section id="reviews-3" class="wide-100 reviews-section division">
+			<!-- <section id="reviews-3" class="wide-100 reviews-section division d-none">
 				<div class="container">
-
-
-					<!-- SECTION TITLE -->	
 					<div class="row">	
 						<div class="col-md-12 text-center section-title">	
-
-							<!-- Title 	-->	
 							<h2 class="h2-sm">10k+ Customers Love AppSet</h2>	
-
-							<!-- Text -->
 							<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus, 
 							   tempor posuere ligula varius
 							</p>
-								
 						</div>
-					</div>	 <!-- END SECTION TITLE -->	
-				
-					
-					<!-- TESTIMONIALS CONTENT -->
+					</div>	 
 					<div class="row">
 						<div class="col-md-12">					
 							<div class="owl-carousel owl-theme testimonials-holder green-nav">
-
-						
-								<!-- TESTIMONIAL #1 -->
 								<div class="review-3">
-																									
-									<!-- Testimonial Text -->
 									<p>An orci nullam tempor sapien, eget orci gravida donec enim ipsum porta justo integer at
 									   odio velna auctor. Magna undo ipsum vitae purus ipsum primis in laoreet augue lectus					   
 									</p>	
-
-									<!-- Testimonial Author -->
 									<div class="author-data clearfix">
-									
-										<!-- Author Avatar -->
 										<div class="testimonial-avatar">
-											<img src="images/review-author-1.jpg" alt="testimonial-avatar">
+											<img src="/files/images/review-author-1.jpg" alt="testimonial-avatar">
 										</div>
-
-										<!-- Author Data -->
 										<div class="review-author">
-
 											<h5 class="h5-xs">pebz13</h5>	
-
-											<!-- App Rating -->
 											<div class="app-rating">
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
@@ -682,36 +584,19 @@
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star-half"></i>
 											</div>	
-
 										</div>
-
-									</div>	<!-- End Testimonial Author -->														
-															
+									</div>												
 								</div>
-						
-						
-								<!-- TESTIMONIAL #2 -->
 								<div class="review-3">
-																																		
-									<!-- Testimonial Text -->
 									<p>Sapien sem accumsan  vitae purus diam integer congue magna undo. Magna, sodales vitae
 									   aenean mauris tempor at risus lectus aenean magna and mauris lectus laoreet tempor				   
 									</p>
-
-									<!-- Testimonial Author -->
 									<div class="author-data clearfix">
-									
-										<!-- Author Avatar -->
 										<div class="testimonial-avatar">
-											<img src="images/review-author-2.jpg" alt="testimonial-avatar">
+											<img src="/files/images/review-author-2.jpg" alt="testimonial-avatar">
 										</div>
-
-										<!-- Author Data -->
 										<div class="review-author">
-
 											<h5 class="h5-xs">Evelyn Martinez</h5>
-											
-											<!-- App Rating -->
 											<div class="app-rating">
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
@@ -719,72 +604,39 @@
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
 											</div>
-
 										</div>
-
-									</div>	<!-- End Testimonial Author -->															
-														
+									</div>													
 								</div>
-						
-						
-								<!-- TESTIMONIAL #3 -->
 								<div class="review-3">
-																
-									<!-- Testimonial Text -->
 									<p>Etiam sapien sem accumsan sagittis congue. Suscipit and egestas magna
 									   sodales vitae aenean mauris tempor risus lectus aenean aenean mauris laoreet tempor							   
 									</p>
-
-									<!-- Testimonial Author -->
 									<div class="author-data clearfix">
-									
-										<!-- Author Avatar -->
 										<div class="testimonial-avatar ">
-											<img src="images/review-author-3.jpg" alt="testimonial-avatar">
+											<img src="/files/images/review-author-3.jpg" alt="testimonial-avatar">
 										</div>
-
-										<!-- Author Data -->
 										<div class="review-author">
-
 											<h5 class="h5-xs">Robert Peterson</h5>
-
-											<!-- App Rating -->
 											<div class="app-rating">
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
 											</div>
-
 										</div>
-
-									</div>	<!-- End Testimonial Author -->															
-															
+									</div>															
 								</div>
-								
-								
-								<!-- TESTIMONIAL #4 -->
+
 								<div class="review-3">
-																								
-									<!-- Testimonial Text -->
 									<p>Egestas egestas magna ipsum vitae purus efficitur ipsum in primis cubilia laoreet augue
 									   congue. Suscipit sodales vitae lobortis magna donec enim						   
 									</p>
-
-									<!-- Testimonial Author -->
 									<div class="author-data clearfix">
-									
-										<!-- Author Avatar -->
 										<div class="testimonial-avatar ">
-											<img src="images/review-author-4.jpg" alt="testimonial-avatar">
+											<img src="/files/images/review-author-4.jpg" alt="testimonial-avatar">
 										</div>
-
-										<!-- Author Data -->
 										<div class="review-author">
-
 											<h5 class="h5-xs">Leslie Serpas</h5>
-
-											<!-- App Rating -->
 											<div class="app-rating">
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
@@ -792,36 +644,19 @@
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star-half"></i>
 											</div>
-
 										</div>
-
-									</div>	<!-- End Testimonial Author -->															
-															
+									</div>															
 								</div>
-								
-								
-								<!-- TESTIMONIAL #5 -->
 								<div class="review-3">
-																									
-									<!-- Testimonial Text -->
 									<p>An orci nullam tempor sapien, eget orci gravida donec enim ipsum porta justo integer at
 									   odio velna auctor. Magna undo ipsum vitae purus ipsum primis in laoreet augue lectus					   
-									</p>	
-
-									<!-- Testimonial Author -->
+									</p>
 									<div class="author-data clearfix">
-									
-										<!-- Author Avatar -->
 										<div class="testimonial-avatar ">
-											<img src="images/review-author-5.jpg" alt="testimonial-avatar">
+											<img src="/files/images/review-author-5.jpg" alt="testimonial-avatar">
 										</div>
-
-										<!-- Author Data -->
 										<div class="review-author">
-
 											<h5 class="h5-xs">Marisol19</h5>
-
-											<!-- App Rating -->
 											<div class="app-rating">
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
@@ -829,36 +664,19 @@
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
 											</div>
-
 										</div>
-
-									</div>	<!-- End Testimonial Author -->														
-															
+									</div>										
 								</div>
-								
-								
-								<!-- TESTIMONIAL #6 -->
 								<div class="review-3">
-																								
-									<!-- Testimonial Text -->
 									<p>Mauris donec ociis et magnis sapien etiam sapien sagittis congue augue. An orci nullam
 									   tempor sapien, eget gravida a donec enim ipsum porta							   
 									</p>
-
-									<!-- Testimonial Author -->
 									<div class="author-data clearfix">
-									
-										<!-- Author Avatar -->
 										<div class="testimonial-avatar ">
-											<img src="images/review-author-6.jpg" alt="testimonial-avatar">
+											<img src="/files/images/review-author-6.jpg" alt="testimonial-avatar">
 										</div>
-
-										<!-- Author Data -->
 										<div class="review-author">
-
 											<h5 class="h5-xs">Dan Hodges</h5>	
-
-											<!-- App Rating -->
 											<div class="app-rating">
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
@@ -866,57 +684,34 @@
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star-half"></i>
 											</div>
-
 										</div>
-
-									</div>	<!-- End Testimonial Author -->																
-															
+									</div>														
 								</div>
-								
-								
-								<!-- TESTIMONIAL #7 -->
 								<div class="review-3">
-																
-									<!-- Testimonial Text -->
 									<p>Egestas egestas magna ipsum vitae purus efficitur ipsum in primis cubilia laoreet augue
 									   congue. Suscipit sodales vitae lobortis magna donec enim						   
-									</p>	
-
-									<!-- Testimonial Author -->
+									</p>
 									<div class="author-data clearfix">
-									
-										<!-- Author Avatar -->
 										<div class="testimonial-avatar">
-											<img src="images/review-author-7.jpg" alt="testimonial-avatar">
+											<img src="/files/images/review-author-7.jpg" alt="testimonial-avatar">
 										</div>
-
-										<!-- Author Data -->
 										<div class="review-author">
-
 											<h5 class="h5-xs">Penelopa Peterson</h5>	
-
-											<!-- App Rating -->
 											<div class="app-rating">
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
 												<i class="fas fa-star"></i>
 											</div>
-
 										</div>
-
-									</div>	<!-- End Testimonial Author -->														
-															
-								</div>
-
-							
+									</div>															
+								</div>						
 							</div>
 						</div>									
-					</div>	<!-- END TESTIMONIALS CONTENT --> 
-							
-						
-				</div>	   <!-- End container -->
-			</section>	 <!-- END TESTIMONIALS-3 -->
+					</div>				
+				</div>
+			</section>
+			<!-- END TESTIMONIALS-3 -->
 
 
 
@@ -930,7 +725,7 @@
 			 			<!-- CONTENT IMAGE -->
 						<div class="col-md-6">
 							<div class="content-4-img text-center wow fadeInUp" data-wow-delay="0.5s">
-								<img class="img-fluid" src="images/image-08.png" alt="content-image" />
+								<img class="img-fluid" src="/files/images/image-08.png" alt="content-image" />
 					 		</div>
 						</div>
 
@@ -978,184 +773,6 @@
 			</section>	<!-- END CONTENT-4 -->
 
 
-
-
-			<!-- FAQs-1
-			============================================= -->
-			<section id="faqs-1" class="bg-fixed wide-100 faqs-section division">				
-				<div class="container">
-
-
-					<!-- SECTION TITLE -->	
-					<div class="row">	
-						<div class="col-md-12 text-center section-title">	
-
-							<!-- Title 	-->	
-							<h2 class="h2-sm">Frequently Asked Questions</h2>	
-
-							<!-- Text -->
-							<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus, 
-							   tempor posuere ligula varius
-							</p>
-								
-						</div>
-					</div>	 <!-- END SECTION TITLE -->	
-
-
-					<div class="row">
-						
-
-						<!-- QUESTIONS HOLDER -->
-						<div class="col-lg-6">
-							<div class="questions-holder ind-30">
-
-
-								<!-- QUESTION #1 -->
-								<div class="question wow fadeInUp" data-wow-delay="0.3s">
-
-									<!-- Question -->
-									<h5 class="h5-sm">Lobortis sit magna ornare magna egestas?</h5>
-
-									<!-- Answer -->
-									<p>Etiam sit amet mauris suscipit sit amet in odio. Integer congue leo metus. Vitae arcu mollis blandit
-									   ultrice ligula egestas magna suscipit lectus magna suscipit luctus undo blandit vitae purus laoreet
-									</p>
-
-								</div>	
-
-
-								<!-- QUESTION #2 -->					
-								<div class="question wow fadeInUp" data-wow-delay="0.5s">
-
-									<!-- Question -->
-									<h5 class="h5-sm">Placeat axime facere omnis volute?</h5>
-
-									<!-- Answer -->
-									<p>An augue egestas an ipsum vitae emo ligula volute ante ipsum primis in faucibus sit ametn in odio.
-									   Integer congue leo metus, eu mollis lorem viverra suscipit lectus magna
-									</p>
-
-								</div>
-
-										
-								<!-- QUESTION #3 -->
-								<div class="question wow fadeInUp" data-wow-delay="0.7s">
-
-									<!-- Question -->
-									<h5 class="h5-sm">An interdum lobortis pretium ornare?</h5>
-
-									<!-- Answer -->
-									<p>Feugiat eros, ac tincidunt ligula massa in faucibus orci luctus et ultrices posuere cubilia curae</p>									
-
-								</div>	
-
-
-								<!-- QUESTION #4 -->
-								<div class="question wow fadeInUp" data-wow-delay="0.9s">
-
-									<!-- Question -->
-									<h5 class="h5-sm">Interdum lobortis pretium ornare?</h5>
-
-									<!-- Answer -->
-									<p>Praesent semper, lacus sed cursus porta, odio augue ligula massa risus laoreet. Laoreet auctor massa
-									   varius egestas amet mauris suscipit semper lacus sed cursus porta feugiat primis
-									</p>
-
-								</div>
-
-
-							</div>
-						</div>	<!-- END QUESTIONS HOLDER -->
-
-
-						<!-- QUESTIONS HOLDER -->
-						<div class="col-lg-6">
-							<div class="questions-holder ind-30">
-
-
-								<!-- QUESTION #5 -->
-								<div class="question wow fadeInUp" data-wow-delay="0.3s">
-
-									<!-- Question -->
-									<h5 class="h5-sm">Aliquam dapibus pretium ornare?</h5>
-
-									<!-- Answer -->
-									<p>Feugiat eros ligula massa lipsum primis in orci luctus et ultrices posuere cubilia curae
-									   congue lorem. ante ipsum primis in faucibus bibendum sit amet in odio
-									</p>
-
-								</div>	
-
-							
-								<!-- QUESTION #6 -->					
-								<div class="question wow fadeInUp" data-wow-delay="0.5s">
-
-									<!-- Question -->
-									<h5 class="h5-sm">Pretium purus lacus tempor an ipsum vitae augue egestas emo ligula?</h5>
-
-									<!-- Answer -->
-									<p>Praesent semper lacus sed cursus porta, feugiat primis in orci luctus ligula eros ac ligula
-									   massa in faucibus orci luctus et ultrices posuere ante ipsum primis in faucibus bibendum sit
-									   amet in odio.
-									</p>
-
-								</div>
-
-									
-								<!-- QUESTION #6 -->
-								<div class="question wow fadeInUp" data-wow-delay="0.7s">
-
-									<!-- Question -->
-									<h5 class="h5-sm">Dapibus lobortis pretium ornare?</h5>
-
-									<!-- Answer -->
-									<p>Praesent semper, lacus sed cursus porta,feugiat primis in faucibus orci luctus tincidunt ligula 
-									   ultrice sapien egestas lobortis magna
-									</p>
-
-								</div>
-
-
-								<!-- QUESTION #7 -->
-								<div class="question wow fadeInUp" data-wow-delay="0.9s">
-
-									<!-- Question -->
-									<h5 class="h5-sm">Interdum lobortis pretium ornare?</h5>
-
-									<!-- Answer -->
-									<p>Feugiat eros, ac tincidunt ligula massa in faucibus orci luctus et ultrices posuere cubilia curae
-									   integer congue leo metus, eu mollis lorem primis in orci
-									</p>
-
-								</div>	
-
-
-							</div>
-						</div>	<!-- END  QUESTIONS HOLDER -->
-
-
-					</div>	<!-- End row -->		
-
-
-					<!-- MORE QUESTIONS BUTTON -->		
-					<div class="row">
-						<div class="col-md-12 text-center">
-							<div class="more-questions-btn wow fadeInUp" data-wow-delay="1.1s">
-
-								<!-- Text -->
-								<h5 class="h5-sm txt-500">Still have a question? <a href="faqs.html" class="green-color">Ask your question here</a></h5>
-
-							</div>
-						</div>
-					</div>
-
-
-				</div>	   <!-- End container -->		
-			</section>	<!-- END FAQs-1 -->
-
-
-
-
 			<!-- CONTACTS-2
 			============================================= -->
 			<section id="contacts-2" class="bg-lightgrey wide-100 contacts-section division">				
@@ -1167,11 +784,17 @@
 						<div class="col-md-12 text-center section-title">	
 
 							<!-- Title 	-->	
-							<h2 class="h2-xs">Get started free trial!</h2>	
+							<h2 class="h2-xs">Garanta Seu Acesso Antecipado Exclusivo!</h2>	
 
 							<!-- Text -->
-							<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus, 
-							   tempor posuere ligula varius
+							<p class="p-lg">
+								Nosso software por enquanto está reservado apenas para um seleto grupo de testadores privilegiados.								
+							</p>
+							<p class="p-lg">
+								Aproveite essa oportunidade única para ser um dos primeiros a experimentar e influenciar o futuro da nossa plataforma.
+							</p>
+							<p class="p-lg">
+								Inscreva-se agora e assegure seu lugar na vanguarda da inovação!
 							</p>
 								
 						</div>
@@ -1186,23 +809,23 @@
 																						
 									<!-- Contact Form Input -->
 									<div id="input-name" class="col-lg-12">
-										<input type="text" name="name" class="form-control name" placeholder="Your Name*"> 
+										<input type="text" name="name" class="form-control name" placeholder="Nome: *"> 
 									</div>
 												
 									<div id="input-email" class="col-lg-12">
-										<input type="text" name="email" class="form-control email" placeholder="Email Address*"> 
+										<input type="text" name="email" class="form-control email" placeholder="Email: *"> 
 									</div>
 
 									<!-- Contact Form Button -->
 									<div class="col-lg-12 form-btn text-right">	
 										<button type="submit" class="btn btn-lg btn-green submit btn-arrow">
-											<span>Start Your Free Trial <i class="fas fa-angle-double-right"></i></span>
+											<span>Solicitar acesso antecipado<i class="fas fa-angle-double-right"></i></span>
 										</button>	
 									</div>
 
 									<!-- Small Text -->
-									<p class="p-sm">We don’t share your personal information with anyone. Check out our 
-									   <a href="demo-1.html#">Privacy Policy</a> for more information
+									<p class="p-sm">Ao solicitar, você declara que esta de acordo com as nossas <br>
+									   <a href="#">Políticas de Privacidade & Termos de uso</a>
 									</p>
 																															
 									<!-- Contact Form Message -->
@@ -1217,19 +840,132 @@
 				 	
 
 				</div>	   <!-- End container -->		
-			</section>	<!-- END CONTACTS-2 -->
+			</section>	
+			
 
+			
+
+			<section id="pricing-2" class="bg-lightgrey1 wide-60 pricing-section division d-none">
+				<div class="container">	
+					<!-- SECTION TITLE -->	
+					<div class="row">	
+						<div class="col-md-12 text-center section-title">	
+
+							<!-- Title 	-->	
+							<h2 class="h2-sm">Pricing Plans & Packages</h2>	
+
+							<!-- Text -->
+							<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus, 
+							   tempor posuere ligula varius
+							</p>
+								
+						</div>
+					</div>	 <!-- END SECTION TITLE -->	
+
+					
+					<!-- PRICING PLANS -->	
+					<div class="row pricing-row">
+					
+					
+						<!-- FREE -->
+						<div class="col-md-4">
+							<div class="pricing-table wow fadeInUp" data-wow-delay="0.3s">	
+							
+								<!-- Plan Price  -->
+								<div class="price">
+									<h5 class="h5-lg">Basic</h5>	
+									<span class="price">Free</span>
+									<span class="price-vat">We give the first consultation to all our clients for free</span>
+								</div>
+								
+								<!-- Pricing Description  -->
+								<div class="pricing-text">							
+									<p>Maecenas laoreet augue egestas laoreet augue egestas, congue gestas volutpat posuere cubilia
+									   congue ipsum
+									</p> 								
+								</div>
+
+								<!-- Pricing Table Button  -->
+								<a href="demo-3.html#" class="btn btn-md btn-tra-black btn-arrow">
+									<span>Get Started <i class="fas fa-angle-double-right"></i></span>
+								</a>
+								
+							</div>
+						</div>	<!-- END FREE -->
+						
+						
+						<!-- SMALL BUSINESS -->
+						<div class="col-md-4">	
+							<div class="pricing-table wow fadeInUp" data-wow-delay="0.5s">	
+							
+								<!-- Plan Price  -->
+								<div class="price">
+									<h5 class="h5-lg">Premium</h5>
+									<sup>$</sup>
+									<span class="price">39</span>
+									<sup class="pricing-coins">99</sup>
+									<span class="price-vat">Analysis of your business model and planning</span>
+								</div>
+								
+								<!-- Pricing Description  -->
+								<div class="pricing-text">							
+									<p>Maecenas laoreet augue egestas laoreet augue egestas, congue gestas volutpat posuere cubilia
+									   congue ipsum
+									</p> 								
+								</div>
+
+								<!-- Pricing Table Button  -->
+								<a href="demo-3.html#" class="btn btn-md btn-blue btn-arrow">
+									<span>Get Started <i class="fas fa-angle-double-right"></i></span>
+								</a>
+								
+							</div>
+						</div>	<!-- END SMALL BUSINESS -->
+						
+						
+						<!-- CORPORATE -->
+						<div class="col-md-4">
+							<div class="pricing-table wow fadeInUp" data-wow-delay="0.7s">	
+
+								<!-- Plan Price  -->
+								<div class="price">
+									<h5 class="h5-lg">Ultimate</h5>
+									<sup>$</sup>								
+									<span class="price">99</span>
+									<sup class="pricing-coins">99</sup>
+									<span class="price-vat">Analysis of your business niche and competitors</span>
+								</div>
+							
+								<!-- Pricing Description  -->
+								<div class="pricing-text">							
+									<p>Maecenas laoreet augue egestas laoreet augue egestas, congue gestas volutpat posuere cubilia
+									   congue ipsum
+									</p> 								
+								</div>
+																									
+								<!-- Pricing Table Button  -->
+								<a href="demo-3.html#" class="btn btn-md btn-tra-black btn-arrow">
+									<span>Get Started <i class="fas fa-angle-double-right"></i></span>
+								</a>
+
+							</div>
+						</div>	<!-- END CORPORATE -->
+						
+
+					</div>	<!-- END PRICING PLANS -->	
+					
+
+				</div>    <!-- End container -->		
+			</section>	<!-- END PRICING-2 -->
 
 
 
 			<!-- FOOTER-4
 			============================================= -->
-			<footer id="footer-4" class="wide-50 footer division">
+			<footer id="footer-4" class="footer py-2">
 				<div class="container">
 
-
-					<!-- FOOTER CONTENT -->
-					<div class="row">
+					<div class="row d-none">
 
 
 						<!-- FOOTER STORE BADGES -->
@@ -1240,23 +976,23 @@
 								<h5 class="h5-md">AppSet&reg; Application</h5>
 
 								<!-- AppStore -->
-								<a href="demo-1.html#" class="store">
-									<img class="appstore-original" src="images/store_badges/appstore.png" width="160" height="50" alt="appstore-logo" />
+								<a href="#" class="store">
+									<img class="appstore-original" src="/files/images/store_badges/appstore.png" width="160" height="50" alt="appstore-logo" />
 								</a>
 													
 								<!-- Google Play -->
-								<a href="demo-1.html#" class="store">
-									<img class="googleplay-original" src="images/store_badges/googleplay.png" width="171" height="50" alt="googleplay-logo" />
+								<a href="#" class="store">
+									<img class="googleplay-original" src="/files/images/store_badges/googleplay.png" width="171" height="50" alt="googleplay-logo" />
 								</a>
 												
 								<!-- Aamazon Market 
 								<a href="#" class="store">
-									<img class="amazon-original" src="images/store_badges/amazon.png" width="158" height="50" alt="amazon-logo" />
+									<img class="amazon-original" src="/files/images/store_badges/amazon.png" width="158" height="50" alt="amazon-logo" />
 								</a>  -->
 																					
 								<!-- Windows Market  
 								<a href="#" class="store">
-									<img class="windows-original" src="images/store_badges/windows.png" width="164" height="50" alt="windows-logo" />
+									<img class="windows-original" src="/files/images/store_badges/windows.png" width="164" height="50" alt="windows-logo" />
 								</a> -->
 													
 							</div>
@@ -1272,9 +1008,9 @@
 
 								<!-- Footer Links -->
 								<ul class="foo-links clearfix">
-									<li><a href="demo-1.html#">How It Works?</a></li>
-									<li><a href="demo-1.html#">Get the App</a></li>
-									<li><a href="demo-1.html#">Terms of Service</a></li>
+									<li><a href="#">How It Works?</a></li>
+									<li><a href="#">Get the App</a></li>
+									<li><a href="#">Terms of Service</a></li>
 								</ul>						
 
 							</div>	
@@ -1290,10 +1026,10 @@
 
 								<!-- Footer Links -->
 								<ul class="foo-links clearfix">
-									<li><a href="demo-1.html#">FAQs</a></li>									
-									<li><a href="demo-1.html#">Editor Help</a></li>							
-									<li><a href="demo-1.html#">Life Chatting</a></li>
-									<li><a href="demo-1.html#">Contact Us</a></li>
+									<li><a href="#">FAQs</a></li>									
+									<li><a href="#">Editor Help</a></li>							
+									<li><a href="#">Life Chatting</a></li>
+									<li><a href="#">Contact Us</a></li>
 								</ul>
 
 							</div>	
@@ -1305,10 +1041,10 @@
 							<div class="footer-socials-links text-right mb-25">
 							
 								<!-- Social Links -->
-								<h5 class="h5-sm"><a href="demo-1.html#" class="foo-facebook">Facebook</a></h5>
-								<h5 class="h5-sm"><a href="demo-1.html#" class="foo-twitter">Twitter</a></h5>
-								<h5 class="h5-sm"><a href="demo-1.html#" class="foo-instagram">Instagram</a></h5>
-								<h5 class="h5-sm"><a href="demo-1.html#" class="foo-dribbble">Dribbble</a></h5>														
+								<h5 class="h5-sm"><a href="#" class="foo-facebook">Facebook</a></h5>
+								<h5 class="h5-sm"><a href="#" class="foo-twitter">Twitter</a></h5>
+								<h5 class="h5-sm"><a href="#" class="foo-instagram">Instagram</a></h5>
+								<h5 class="h5-sm"><a href="#" class="foo-dribbble">Dribbble</a></h5>														
 
 								<!--	
 								<h5 class="h5-sm"><a href="#" class="foo-behance">Facebook</a></h5>
@@ -1325,17 +1061,15 @@
 						
 
 					
-					</div>	 <!-- END FOOTER CONTENT -->
+					</div>
 
-					
-					<!-- BOTTOM FOOTER -->
-					<div class="bottom-footer">
+					<div class="bottom-footer m-0 py-2">
 						<div class="row">
 
 							<!-- FOOTER COPYRIGHT -->
 							<div class="col-md-12">
-								<div class="footer-copyright">
-									<p>&copy; 2018 <span>AppSet</span>. All Rights Reserved</p>
+								<div class="footer-copyright text-center">
+									<p>&copy; 2024 <span>MyFX Capital</span>. All Rights Reserved</p>
 								</div>
 							</div>
 
@@ -1356,29 +1090,29 @@
 
 		<!-- EXTERNAL SCRIPTS
 		============================================= -->	
-		<script src="js/jquery-3.3.1.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>	
-		<script src="js/fontawesome-all.js"></script>	
-		<script src="js/modernizr.custom.js"></script>
-		<script src="js/jquery.easing.js"></script>
-		<script src="js/wow.js"></script>	
-		<script src="js/retina.js"></script>	
-		<script src="js/jquery.stellar.min.js"></script>	
-		<script src="js/jquery.scrollto.js"></script>
-		<script src="js/jquery.appear.js"></script>
-		<script src="js/jquery.flexslider.js"></script>
-		<script src="js/owl.carousel.min.js"></script>
-		<script src="js/slick.min.js"></script>
-		<script src="js/jquery.magnific-popup.min.js"></script>
-		<script src="js/contact-form.js"></script>	
-		<script src="js/register-form.js"></script>	
-		<script src="js/quick-form.js"></script>
-		<script src="js/comment-form.js"></script>
-		<script src="js/jquery.validate.min.js"></script>
-		<script src="js/jquery.ajaxchimp.min.js"></script>	
+		<script src="/files/js/jquery-3.3.1.min.js"></script>
+		<script src="/files/js/bootstrap.min.js"></script>	
+		<script src="/files/js/fontawesome-all.js"></script>	
+		<script src="/files/js/modernizr.custom.js"></script>
+		<script src="/files/js/jquery.easing.js"></script>
+		<script src="/files/js/wow.js"></script>	
+		<!-- <script src="/files/js/retina.js"></script>	 -->
+		<script src="/files/js/jquery.stellar.min.js"></script>	
+		<script src="/files/js/jquery.scrollto.js"></script>
+		<script src="/files/js/jquery.appear.js"></script>
+		<script src="/files/js/jquery.flexslider.js"></script>
+		<script src="/files/js/owl.carousel.min.js"></script>
+		<script src="/files/js/slick.min.js"></script>
+		<script src="/files/js/jquery.magnific-popup.min.js"></script>
+		<script src="/files/js/contact-form.js"></script>	
+		<script src="/files/js/register-form.js"></script>	
+		<script src="/files/js/quick-form.js"></script>
+		<script src="/files/js/comment-form.js"></script>
+		<script src="/files/js/jquery.validate.min.js"></script>
+		<script src="/files/js/jquery.ajaxchimp.min.js"></script>	
 				
 		<!-- Custom Script -->		
-		<script src="js/custom.js"></script>	
+		<script src="/files/js/custom.js?V=2"></script>	
 
 		<script>
 			new WOW().init();
@@ -1386,8 +1120,8 @@
 					
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
 		<!-- [if lt IE 9]>
-			<script src="js/html5shiv.js" type="text/javascript"></script>
-			<script src="js/respond.min.js" type="text/javascript"></script>
+			<script src="/files/js/html5shiv.js" type="text/javascript"></script>
+			<script src="/files/js/respond.min.js" type="text/javascript"></script>
 		<![endif] -->
 									
 		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information. -->															

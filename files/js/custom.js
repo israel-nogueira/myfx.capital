@@ -12,7 +12,7 @@
 		$("#loader").delay(100).fadeOut();
 		$("#loader-wrapper").delay(100).fadeOut("fast");
 				
-		$(window).stellar({});
+		// $(window).stellar({});
 		
 	});
 	
@@ -46,7 +46,7 @@
 		/*----------------------------------------------------*/
 
 		if ( $(window).width() < 769 ) {
-			$('.navbar-nav li.nav-item.nl-simple').on('click', function() {				
+			$('.navbar-nav li.nav-item.nl-simple,.teste-gratis').on('click', function() {				
 				$('#navbarSupportedContent').css("height", "1px").removeClass("in").addClass("collapse");
 				$('#navbarSupportedContent').removeClass("show");				
 			});
